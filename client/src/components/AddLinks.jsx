@@ -47,7 +47,7 @@ const AddLinks = () => {
             </div>
             <div className="card bg-base-100 w-96 shadow-xl w-full rounded-md">
                 <div className="card-body">
-                <div className="max-w-xl mx-auto p-6">
+                <div className="max-w-xl mx-auto">
                         <h2 className="text-2xl font-bold mb-4">Customize your links</h2>
                         <p className="text-gray-600 mb-6">
                             Add/edit/remove links below and then share all your profiles with the world!
