@@ -33,7 +33,7 @@ Make sure you have the following installed on your local machine:
 2. **Navigate to the project directory** <br>
    After cloning the repository, navigate into the project folder:
     ```bash
-    cd link-sharing-pro-react\client
+    cd profile-card-tas\client
    
 3. **Install dependencies** <br>
    Once inside the project directory, install the required dependencies using npm:
